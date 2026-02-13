@@ -8,6 +8,13 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<CustmerProfileContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("CustomerProfile")));
 
+builder.Services.AddHttpClient("MaintenanceApi", (sp, client) =>
+{
+    var config = sp.GetRequiredService<IConfiguration>();
+    client.BaseAddress = new Uri(config["MaintenanceApi:BaseUrl"]!);
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
