@@ -11,7 +11,7 @@ namespace Maintenance.WebAPI.Services
             new RepairHistory
             {
                 Id = 1,
-                VehicleId = vehicleId,
+                VehicleId = 3,
                 RepairDate = DateTime.Now.AddDays(-10),
                 DescriptionOfRepair = "Oil change",
                  RepairCost = 89.99m,
@@ -20,7 +20,7 @@ namespace Maintenance.WebAPI.Services
             new RepairHistory
             {
                 Id = 2,
-                VehicleId = vehicleId,
+                VehicleId = 4,
                 RepairDate = DateTime.Now.AddDays(-35),
                 DescriptionOfRepair= "Brake pad replacement",
                 RepairCost = 320.00m,
