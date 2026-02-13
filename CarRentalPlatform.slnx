@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/WebServices/">
+    <Project Path="CustomerProfile.WebAPI/CustomerProfile.WebAPI.csproj" />
+    <Project Path="Inventory.WebAPI/Inventory.WebAPI.csproj" />
+  </Folder>
+  <Project Path="CarRentalPlatform/CarRentalPlatform.csproj" />
+</Solution>
