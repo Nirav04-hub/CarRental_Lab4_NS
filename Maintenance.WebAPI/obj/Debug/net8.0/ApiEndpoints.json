@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Maintenance.WebAPI.Controllers.MaintenanceController",
+    "Method": "GetRepairs",
+    "RelativePath": "api/Maintenance/vehicles/{vehicleId}/repairs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehicleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Maintenance.WebAPI.Models.RepairHistory, Maintenance.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

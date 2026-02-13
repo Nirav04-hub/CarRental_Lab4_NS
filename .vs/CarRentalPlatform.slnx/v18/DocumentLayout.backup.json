@@ -1,69 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\",
+  "WorkspaceRootPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\services\\irepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\services\\irepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\services\\fakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\services\\fakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\models\\repairhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\models\\repairhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\data\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\data\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\data\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\inventory.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\inventory.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\customerprofile.webapi\\customerprofile.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\customerprofile.webapi\\customerprofile.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\customerprofile.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\carrentalplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\inventory.webapi\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\inventory.webapi\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\excercise\\carrentalplatform\\carrentalplatform\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\onedrive\\desktop\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\models\\custmerprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,15 +94,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -90,16 +110,89 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:13:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:11:03.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeRepairHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Services\\FakeRepairHistoryService.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Services\\FakeRepairHistoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:01:04.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepairHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\IRepairHistoryService.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Services\\IRepairHistoryService.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\IRepairHistoryService.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Services\\IRepairHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T15:59:41.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepairHistory.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\RepairHistory.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Models\\RepairHistory.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\RepairHistory.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Models\\RepairHistory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T15:58:12.49Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Inventory.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Program.cs",
               "RelativeToolTip": "Inventory.WebAPI\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Inventory.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Inventory.WebAPI\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CustmerProfileContext.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
               "RelativeDocumentMoniker": "Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
               "RelativeToolTip": "Inventory.WebAPI\\Models\\CustmerProfileContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -167,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\WeatherForecast.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "CustomerProfile.WebAPI.http",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
               "RelativeToolTip": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -191,24 +284,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Program.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T02:52:47.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\appsettings.json",
               "RelativeToolTip": "CustomerProfile.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -216,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CustmerProfileContext.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Data\\CustmerProfileContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -240,11 +333,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "CarRentalPlatform\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +345,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CustmerProfileContext.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Models\\CustmerProfileContext.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Models\\CustmerProfileContext.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Models\\CustmerProfileContext.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Models\\CustmerProfileContext.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Models\\CustmerProfileContext.cs",
               "RelativeToolTip": "CarRentalPlatform\\Models\\CustmerProfileContext.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Excercise\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeToolTip": "CarRentalPlatform\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -2,6 +2,7 @@
   <Folder Name="/WebServices/">
     <Project Path="CustomerProfile.WebAPI/CustomerProfile.WebAPI.csproj" />
     <Project Path="Inventory.WebAPI/Inventory.WebAPI.csproj" />
+    <Project Path="Maintenance.WebAPI/Maintenance.WebAPI.csproj" Id="62386b8d-1511-4c00-8b14-1880236ffa0b" />
   </Folder>
   <Project Path="CarRentalPlatform/CarRentalPlatform.csproj" />
 </Solution>
