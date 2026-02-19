@@ -53,6 +53,61 @@
           }
         }
       }
+    },
+    "/api/Maintenance": {
+      "post": {
+        "tags": [
+          "Maintenance"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RepairHistory"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RepairHistory"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RepairHistory"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Maintenance/crash": {
+      "get": {
+        "tags": [
+          "Maintenance"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Maintenance/usage": {
+      "get": {
+        "tags": [
+          "Maintenance"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -87,6 +142,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "ApiKey": {
+        "type": "apiKey",
+        "description": "API Key needed to access the endpoints. Example: MY_SECRET_KEY_123",
+        "name": "X-Api-Key",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "ApiKey": [ ]
+    }
+  ]
 }

@@ -14,6 +14,14 @@ builder.Services.AddHttpClient("MaintenanceApi", (sp, client) =>
     client.BaseAddress = new Uri(config["MaintenanceApi:BaseUrl"]!);
 });
 
+builder.Services.AddHttpClient("MaintenanceApi", (sp, client) =>
+{
+    var config = sp.GetRequiredService<IConfiguration>();
+    client.BaseAddress = new Uri(config["MaintenanceApi:BaseUrl"]!);
+    client.DefaultRequestHeaders.Add("X-Api-Key", "5214eee0-0f8c-407b-9bc4-3b33db2030a2");
+});
+
+
 
 var app = builder.Build();
 

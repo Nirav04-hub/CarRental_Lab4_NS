@@ -1,0 +1,15 @@
+﻿@model CarRentalPlatform.Models.UsageViewModel
+
+<h2>API Usage Tracking</h2>
+
+@if (Model == null)
+{
+    <p>No data received.</p>
+}
+else
+{
+    <div class="card p-3">
+        <p><strong>Client ID:</strong> @Model.clientId</p>
+        <p><strong>Call Count:</strong> @Model.callCount</p>
+    </div>
+}

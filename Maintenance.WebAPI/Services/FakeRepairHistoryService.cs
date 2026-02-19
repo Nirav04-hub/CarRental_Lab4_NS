@@ -27,6 +27,13 @@ namespace Maintenance.WebAPI.Services
                 RepairPerformedBy = "Brake Masters"
             }
         };
+
+        }
+
+        public RepairHistory AddRepair(RepairHistory repair)
+        {
+            repair.Id = new Random().Next(1000, 9999); 
+            return repair;
         }
     }
 }

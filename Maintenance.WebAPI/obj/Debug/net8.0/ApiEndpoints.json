@@ -1,6 +1,42 @@
 [
   {
     "ContainingType": "Maintenance.WebAPI.Controllers.MaintenanceController",
+    "Method": "AddRepair",
+    "RelativePath": "api/Maintenance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repair",
+        "Type": "Maintenance.WebAPI.Models.RepairHistory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maintenance.WebAPI.Controllers.MaintenanceController",
+    "Method": "Crash",
+    "RelativePath": "api/Maintenance/crash",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maintenance.WebAPI.Controllers.MaintenanceController",
+    "Method": "Usage",
+    "RelativePath": "api/Maintenance/usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maintenance.WebAPI.Controllers.MaintenanceController",
     "Method": "GetRepairs",
     "RelativePath": "api/Maintenance/vehicles/{vehicleId}/repairs",
     "HttpMethod": "GET",
