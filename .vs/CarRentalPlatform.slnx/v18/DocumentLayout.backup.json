@@ -102,8 +102,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T21:08:30.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T21:08:30.857Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Models\\UsageViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T20:59:56.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:59:56.163Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T20:59:32.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:59:32.68Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T20:46:14.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:46:14.286Z"
             },
             {
               "$type": "Document",
@@ -154,8 +150,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T20:46:10.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:46:10.307Z"
             },
             {
               "$type": "Document",
@@ -167,8 +162,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T20:45:59.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:45:59.04Z"
             },
             {
               "$type": "Document",
@@ -180,8 +174,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Views\\Maintenance\\Usage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T20:45:13.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T20:45:13.555Z"
             },
             {
               "$type": "Document",
@@ -193,8 +186,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:48:19.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:48:19.485Z"
             },
             {
               "$type": "Document",
@@ -206,8 +198,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\GlobalExceptionMiddleware.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:09:17.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:09:17.753Z"
             },
             {
               "$type": "Document",
@@ -219,8 +210,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:09:11.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:09:11.952Z"
             },
             {
               "$type": "Document",
@@ -232,8 +222,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Services\\FakeRepairHistoryService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAiwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:01:03.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:01:03.58Z"
             },
             {
               "$type": "Document",
@@ -245,8 +234,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T18:55:08.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:55:08.657Z"
             },
             {
               "$type": "Document",
@@ -258,8 +246,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:22:54.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:22:54.452Z"
             },
             {
               "$type": "Document",
@@ -271,8 +258,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAIwEoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:15:30.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:15:30.656Z"
             },
             {
               "$type": "Document",
@@ -284,8 +270,7 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:14:59.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:14:59.705Z"
             },
             {
               "$type": "Document",
@@ -295,7 +280,7 @@
               "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
               "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-19T18:14:24.852Z",
               "EditorCaption": ""
@@ -310,8 +295,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T18:14:22.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:14:22.518Z"
             },
             {
               "$type": "Document",
@@ -323,8 +307,7 @@
               "RelativeToolTip": "CarRentalPlatform\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:13:46.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:13:46.802Z"
             }
           ]
         }

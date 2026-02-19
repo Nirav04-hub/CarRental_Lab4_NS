@@ -2,6 +2,7 @@
 {
     public class ApiKeyMiddleware
     {
+
         private readonly RequestDelegate _next;
         private readonly string _apiKey;
         public ApiKeyMiddleware(RequestDelegate next, IConfiguration config)
