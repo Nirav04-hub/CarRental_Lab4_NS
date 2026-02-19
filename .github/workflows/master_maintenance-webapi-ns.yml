@@ -45,8 +45,8 @@ jobs:
       - name: Upload artifact (zip)
         uses: actions/upload-artifact@v4
         with:
-          name: webapp-package
-          path: app.zip
+          name: web-app
+          path: ./publish
 
   deploy:
     runs-on: ubuntu-latest
@@ -78,3 +78,4 @@ jobs:
           app-name: "maintenance-webapi-ns"
           slot-name: "Production"
           package: "./app.zip"
+
