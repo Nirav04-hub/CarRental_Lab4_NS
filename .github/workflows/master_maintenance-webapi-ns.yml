@@ -46,7 +46,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: web-app
-          path: ${{github.workspace}}/publish      
+          path: ./publish      
 
   deploy:
     runs-on: ubuntu-latest
@@ -78,5 +78,6 @@ jobs:
           app-name: "maintenance-webapi-ns"
           slot-name: "Production"
           package: ${{github.workspace}}/publish
+
 
 
