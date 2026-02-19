@@ -12,6 +12,12 @@
         }
         public async Task InvokeAsync(HttpContext context)
         {
+            if (context.Request.Path.StartsWithSegments("/swagger"))
+            {
+                await _next(context);
+                return;
+            }
+
             if (!context.Request.Headers.TryGetValue("X-API-Key", out var providedKey))
             {
                 context.Response.StatusCode = 401;

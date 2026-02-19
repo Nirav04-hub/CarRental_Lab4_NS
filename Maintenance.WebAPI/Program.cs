@@ -51,7 +51,8 @@ app.UseSwaggerUI();
 app.UseMiddleware<GlobalExceptionMiddleware>();
 
 if (!app.Environment.IsDevelopment()){
-app.UseMiddleware<ApiKeyMiddleware>();
+
+    app.UseMiddleware<ApiKeyMiddleware>();
 }
 app.UseAuthorization();
 
