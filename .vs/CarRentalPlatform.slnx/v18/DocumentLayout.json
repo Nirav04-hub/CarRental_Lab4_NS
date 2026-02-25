@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\sem - 6\\programming distributed applications development\\lab\\lab -2\\carrentalplatform\\maintenance.webapi\\services\\fakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\CustomersController.cs",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Middleware\\GlobalExceptionMiddleware.cs",
@@ -230,18 +230,17 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\GlobalExceptionMiddleware.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:09:17.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:09:17.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApiKeyMiddleware.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "ToolTip": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T19:09:11.952Z",
               "EditorCaption": ""
@@ -272,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MaintenanceController.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\MaintenanceController.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
@@ -284,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MaintenanceController.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
@@ -292,12 +291,11 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:15:30.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:15:30.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Program.cs",
@@ -305,20 +303,20 @@
               "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:14:59.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T18:14:59.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
               "ToolTip": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T18:14:24.852Z"
+              "WhenOpened": "2026-02-19T18:14:24.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -334,15 +332,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Program.cs",
               "ToolTip": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeToolTip": "CarRentalPlatform\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T18:13:46.802Z"
+              "WhenOpened": "2026-02-19T18:13:46.802Z",
+              "EditorCaption": ""
             }
           ]
         }
