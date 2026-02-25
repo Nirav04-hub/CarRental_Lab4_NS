@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj": {}
+    "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj": {
+    "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
+        "projectUniqueName": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
         "projectName": "Inventory.WebAPI",
-        "projectPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
+        "projectPath": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
         "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\obj\\",
+        "outputPath": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Inventory.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

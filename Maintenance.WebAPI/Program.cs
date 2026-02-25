@@ -3,9 +3,6 @@ using Maintenance.WebAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-builder.WebHost.UseUrls("http://localhost:8080");
-
 // Add services to the container.
 builder.Services.AddScoped<IRepairHistoryService, FakeRepairHistoryService>();
 builder.Services.AddControllers();

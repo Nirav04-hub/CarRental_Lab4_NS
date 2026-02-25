@@ -49,9 +49,5 @@ namespace CarRentalPlatform.Controllers
             ViewBag.Result = content;
             return View();
         }
-
-
-
-
     }
 }

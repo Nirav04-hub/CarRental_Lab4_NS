@@ -18,7 +18,7 @@
                 return;
             }
 
-            if (!context.Request.Headers.TryGetValue("X-API-Key", out var providedKey))
+            if (!context.Request.Headers.TryGetValue("X-Api-Key", out var providedKey))
             {
                 context.Response.StatusCode = 401;
                 await context.Response.WriteAsync("API Key was not provided.");

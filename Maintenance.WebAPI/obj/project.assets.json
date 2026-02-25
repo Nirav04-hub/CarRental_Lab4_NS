@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+      "projectUniqueName": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
       "projectName": "Maintenance.WebAPI",
-      "projectPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+      "projectPath": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
       "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\obj\\",
+      "outputPath": "D:\\SEM - 6\\Programming Distributed Applications Development\\Lab\\Lab -2\\CarRentalPlatform\\Maintenance.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
