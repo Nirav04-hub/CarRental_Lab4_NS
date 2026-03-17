@@ -8,17 +8,11 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<CustmerProfileContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("CustomerProfile")));
 
-builder.Services.AddHttpClient("MaintenanceApi", (sp, client) =>
+builder.Services.AddHttpClient("ApiGateway", (sp, client) =>
 {
     var config = sp.GetRequiredService<IConfiguration>();
-    client.BaseAddress = new Uri(config["MaintenanceApi:BaseUrl"]!);
-});
-
-builder.Services.AddHttpClient("MaintenanceApi", (sp, client) =>
-{
-    var config = sp.GetRequiredService<IConfiguration>();
-    client.BaseAddress = new Uri(config["MaintenanceApi:BaseUrl"]!);
-    client.DefaultRequestHeaders.Add("X-Api-Key", "5214eee0-0f8c-407b-9bc4-3b33db2030a2");
+    client.BaseAddress = new Uri(config["ApiGateway:BaseUrl"]!);
+    client.DefaultRequestHeaders.Add("X-Api-Key", "This_is_Nirav_Saxena_Super_Key_123");
 });
 
 

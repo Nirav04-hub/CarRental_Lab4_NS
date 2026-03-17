@@ -1,5 +1,6 @@
 using CustomerProfile.WebAPI.Data;
 using Microsoft.EntityFrameworkCore;
+using NS_CarRental.GlobalException;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +23,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<NS_GlobalExceptionMiddleware>();
 
 app.UseAuthorization();
 

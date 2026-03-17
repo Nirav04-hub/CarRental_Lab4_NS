@@ -7,7 +7,7 @@ builder.Services.AddReverseProxy()
 
 var app = builder.Build();
 
-app.UseMiddleware<NS_GlobalExceptionMiddleware>();
+
 app.UseMiddleware<NS_ApiKeyAuthMiddleware>();
 
 app.MapReverseProxy();

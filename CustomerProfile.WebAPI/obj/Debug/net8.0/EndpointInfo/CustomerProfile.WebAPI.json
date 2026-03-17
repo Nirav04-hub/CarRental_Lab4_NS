@@ -1,5 +1,5 @@
 {
-  "openapi": "3.0.4",
+  "openapi": "3.0.1",
   "info": {
     "title": "CustomerProfile.WebAPI",
     "version": "1.0"
@@ -12,7 +12,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Success",
             "content": {
               "text/plain": {
                 "schema": {
@@ -67,7 +67,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Success",
             "content": {
               "text/plain": {
                 "schema": {
@@ -107,7 +107,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Success",
             "content": {
               "text/plain": {
                 "schema": {
@@ -164,7 +164,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -185,7 +185,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -198,7 +198,7 @@
         "operationId": "GetWeatherForecast",
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Success",
             "content": {
               "text/plain": {
                 "schema": {

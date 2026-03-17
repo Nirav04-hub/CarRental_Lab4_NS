@@ -23,7 +23,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Success",
             "content": {
               "text/plain": {
                 "schema": {
@@ -80,7 +80,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -92,7 +92,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -104,7 +104,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -142,19 +142,6 @@
         },
         "additionalProperties": false
       }
-    },
-    "securitySchemes": {
-      "ApiKey": {
-        "type": "apiKey",
-        "description": "API Key needed to access the endpoints. Example: MY_SECRET_KEY_123",
-        "name": "X-Api-Key",
-        "in": "header"
-      }
     }
-  },
-  "security": [
-    {
-      "ApiKey": [ ]
-    }
-  ]
+  }
 }
