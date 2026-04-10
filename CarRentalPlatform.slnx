@@ -1,19 +1,19 @@
 <Solution>
   <Folder Name="/Shared/">
-    <Project Path="NS_CarRental.GlobalException/NS_CarRental.GlobalException.csproj" Id="8a118d80-ec1b-441a-b3bf-5cdc18857da4" />
-    <Project Path="NS_VehicleInvenotry.ApiGateWay/NS_CarRental.ApiGateWay.csproj" Id="dfbb773a-27ae-4c76-9e6e-93f497929fe9" />
+    <Project Path="Shared/NS_CarRental.GlobalException/NS_CarRental.GlobalException.csproj" />
+    <Project Path="Shared/NS_VehicleInvenotry.ApiGateWay/NS_CarRental.ApiGateWay.csproj" />
   </Folder>
   <Folder Name="/UI/">
-    <Project Path="CarRentalPlatform/CarRentalPlatform.csproj" />
+    <Project Path="UI/CarRentalPlatform/CarRentalPlatform.csproj" />
   </Folder>
   <Folder Name="/WebServices/">
-    <Project Path="CustomerProfile.WebAPI/CustomerProfile.WebAPI.csproj" />
-    <Project Path="Maintenance.WebAPI/Maintenance.WebAPI.csproj" Id="62386b8d-1511-4c00-8b14-1880236ffa0b" />
+    <Project Path="WebServices/CustomerProfile.WebAPI/CustomerProfile.WebAPI.csproj" />
+    <Project Path="WebServices/Maintenance.WebAPI/Maintenance.WebAPI.csproj" />
   </Folder>
   <Folder Name="/WebServices/VehicleInventoryService/">
-    <Project Path="../VehicaleInventroy_Assignment1_NS/VehicleInvenoryService/VehicleInventory.Application/NS_VehicleInventory.Application.csproj" />
-    <Project Path="../VehicaleInventroy_Assignment1_NS/VehicleInvenoryService/VehicleInventory.Domain/VehicleInventory.Domain.csproj" />
-    <Project Path="../VehicaleInventroy_Assignment1_NS/VehicleInvenoryService/VehicleInventory.Infrastructure/NS_VehicleInventory.Infrastructure.csproj" />
-    <Project Path="../VehicaleInventroy_Assignment1_NS/VehicleInvenoryService/VehicleInventory.WebAPI/NS_VehicleInventory.WebAPI.csproj" />
+    <Project Path="WebServices/VehicleInventoryService/VehicleInventory.Application/NS_VehicleInventory.Application.csproj" />
+    <Project Path="WebServices/VehicleInventoryService/VehicleInventory.Domain/VehicleInventory.Domain.csproj" />
+    <Project Path="WebServices/VehicleInventoryService/VehicleInventory.Infrastructure/NS_VehicleInventory.Infrastructure.csproj" />
+    <Project Path="WebServices/VehicleInventoryService/VehicleInventory.WebAPI/NS_VehicleInventory.WebAPI.csproj" />
   </Folder>
 </Solution>

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\NS_CarRental.GlobalException\NS_CarRental.GlobalException.csproj" />
+    <ProjectReference Include="..\..\Shared\NS_VehicleInvenotry.ApiGateWay\NS_CarRental.ApiGateWay.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/VehicleInventoryService/">
+    <File Path="README.md" />
+    <Project Path="VehicleInventory.Application/NS_VehicleInventory.Application.csproj" />
+    <Project Path="VehicleInventory.Domain/VehicleInventory.Domain.csproj" />
+    <Project Path="VehicleInventory.Infrastructure/NS_VehicleInventory.Infrastructure.csproj" />
+    <Project Path="VehicleInventory.WebAPI/NS_VehicleInventory.WebAPI.csproj" />
+  </Folder>
+</Solution>

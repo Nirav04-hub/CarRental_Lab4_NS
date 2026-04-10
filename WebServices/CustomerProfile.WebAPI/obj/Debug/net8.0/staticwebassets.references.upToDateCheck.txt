@@ -1,0 +1,1 @@
+D:\Desktop\CarRental_Lab4_NS\Shared\NS_VehicleInvenotry.ApiGateWay\obj\Debug\net8.0\staticwebassets.build.json

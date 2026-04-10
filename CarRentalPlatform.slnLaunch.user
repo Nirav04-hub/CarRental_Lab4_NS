@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Shared\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UI\\CarRentalPlatform\\CarRentalPlatform.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebServices\\VehicleInventoryService\\VehicleInventory.WebAPI\\NS_VehicleInventory.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebServices\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebServices\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
