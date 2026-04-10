@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj": {}
+    "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj": {
+    "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj",
+        "projectUniqueName": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj",
         "projectName": "NS_CarRental.ApiGateWay",
-        "projectPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj",
+        "projectPath": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj",
         "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\obj\\",
+        "outputPath": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

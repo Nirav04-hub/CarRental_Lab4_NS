@@ -7779,11 +7779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\CarRentalPlatform.csproj",
+      "projectUniqueName": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\CarRentalPlatform.csproj",
       "projectName": "CarRentalPlatform",
-      "projectPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\CarRentalPlatform.csproj",
+      "projectPath": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\CarRentalPlatform.csproj",
       "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\obj\\",
+      "outputPath": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

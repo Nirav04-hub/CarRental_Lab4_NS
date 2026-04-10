@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NS_CarRental.GlobalException")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c8a3df7cec77a25c22e16ee66bf92e2d1bec06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6b906a06ce485a8f8b209ad0e8db8f415b8caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("NS_CarRental.GlobalException")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NS_CarRental.GlobalException")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

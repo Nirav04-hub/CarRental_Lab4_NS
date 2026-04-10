@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj": {}
+    "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj": {
+    "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+        "projectUniqueName": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
         "projectName": "Maintenance.WebAPI",
-        "projectPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+        "projectPath": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
         "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\obj\\",
+        "outputPath": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj": {
-                "projectPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj"
+              "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj": {
+                "projectPath": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj": {
+    "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
+        "projectUniqueName": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
         "projectName": "NS_CarRental.GlobalException",
-        "projectPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
+        "projectPath": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
         "packagesPath": "C:\\Users\\nirav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\obj\\",
+        "outputPath": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,101 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\",
+  "WorkspaceRootPath": "D:\\Desktop\\CarRental_Lab4_NS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\inventory.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\inventory.webapi\\inventory.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\inventory.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|d:\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|solutionrelative:ns_vehicleinvenotry.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\ns_carrental.globalexception\\ns_carrental.globalexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|d:\\desktop\\carrental_lab4_ns\\ns_carrental.globalexception\\ns_carrental.globalexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|solutionrelative:ns_carrental.globalexception\\ns_carrental.globalexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\maintenance.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\maintenance.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\maintenance.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|d:\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|solutionrelative:ns_vehicleinvenotry.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\ns_carrental.globalexception\\ns_globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|d:\\desktop\\carrental_lab4_ns\\ns_carrental.globalexception\\ns_globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A118D80-EC1B-441A-B3BF-5CDC18857DA4}|NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj|solutionrelative:ns_carrental.globalexception\\ns_globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\customerprofile.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\customerprofile.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\customerprofile.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\maintenance.webapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\maintenance.webapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62386B8D-1511-4C00-8B14-1880236FFA0B}|Maintenance.WebAPI\\Maintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\carrentalplatform\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\desktop\\carrental_lab4_ns\\carrentalplatform\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\desktop\\carrental_lab4_ns\\carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\desktop\\carrental_lab4_ns\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|d:\\desktop\\carrental_lab4_ns\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\inventory.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ADF0B72C-5FCD-6A3B-7C34-06E2AD1E4A58}|Inventory.WebAPI\\Inventory.WebAPI.csproj|solutionrelative:inventory.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|d:\\desktop\\carrental_lab4_ns\\customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{890DA9C0-0780-E21F-9BA7-3583099BDCAB}|CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj|solutionrelative:customerprofile.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|c:\\users\\nirav\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|d:\\desktop\\carrental_lab4_ns\\ns_vehicleinvenotry.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DFBB773A-27AE-4C76-9E6E-93F497929FE9}|NS_VehicleInvenotry.ApiGateWay\\NS_CarRental.ApiGateWay.csproj|solutionrelative:ns_vehicleinvenotry.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -106,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,316 +101,253 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T19:42:02.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ApiKeyMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T19:31:57.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T19:31:57.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NS_CarRental.GlobalException",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
+              "DocumentIndex": 4,
+              "Title": "NS_CarRental.GlobalException.csproj",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
               "RelativeDocumentMoniker": "NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
               "RelativeToolTip": "NS_CarRental.GlobalException\\NS_CarRental.GlobalException.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T18:47:28.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inventory.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Inventory.WebAPI\\Inventory.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Inventory.WebAPI.csproj",
-              "RelativeToolTip": "Inventory.WebAPI\\Inventory.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T15:55:08.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Program.cs",
-              "RelativeToolTip": "CustomerProfile.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:56:12.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBpwBgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:33:24.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Inventory.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Program.cs",
-              "RelativeToolTip": "Inventory.WebAPI\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:15:11.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "Inventory.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "Inventory.WebAPI\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAADwv5wAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:55:24.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T18:47:28.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Maintenance.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\appsettings.json",
-              "RelativeToolTip": "Maintenance.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T20:19:44.572Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Program.cs",
+              "RelativeToolTip": "CustomerProfile.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:56:12.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
-              "RelativeDocumentMoniker": "NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
-              "RelativeToolTip": "NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:11:48.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Maintenance.WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NS_VehicleInvenotry.ApiGateWay\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBpwBgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:13:48.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:33:24.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "NS_GlobalExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
-              "RelativeToolTip": "NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T18:42:31.855Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Maintenance.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T20:19:44.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Program.cs",
-              "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:11:30.638Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
+              "RelativeToolTip": "NS_VehicleInvenotry.ApiGateWay\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T18:11:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Maintenance.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T18:13:48.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Maintenance.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
-              "RelativeToolTip": "Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T17:06:08.355Z",
-              "EditorCaption": ""
+              "Title": "NS_GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "NS_CarRental.GlobalException\\NS_GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:42:31.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Program.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:11:30.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Maintenance.WebAPI.csproj",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+              "RelativeToolTip": "Maintenance.WebAPI\\Maintenance.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T17:06:08.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Program.cs",
               "RelativeDocumentMoniker": "NS_VehicleInvenotry.ApiGateWay\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Program.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\NS_VehicleInvenotry.ApiGateWay\\Program.cs",
               "RelativeToolTip": "NS_VehicleInvenotry.ApiGateWay\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T18:46:40.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T18:46:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerProfile.WebAPI.csproj",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
+              "RelativeToolTip": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T17:08:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "CustomerProfile.WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:56:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:34:56.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CustomerProfile.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
-              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
-              "RelativeToolTip": "CustomerProfile.WebAPI\\CustomerProfile.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T17:08:35.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "CustomerProfile.WebAPI\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:56:11.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "MaintenanceController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\MaintenanceController.cs",
-              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\MaintenanceController.cs",
-              "RelativeToolTip": "CarRentalPlatform\\Controllers\\MaintenanceController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAABFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:34:56.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T20:21:31.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "MaintenanceController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
-              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
-              "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T20:21:31.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:34:43.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\appsettings.json",
+              "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T18:32:45.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "CarRentalPlatform\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAqwJEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:34:43.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\appsettings.json",
-              "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\appsettings.json",
-              "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:32:45.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Inventory.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\Inventory.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Inventory.WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:15:13.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CustomerProfile.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "CustomerProfile.WebAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAIBpwBoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T18:14:41.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:14:41.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Program.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Program.cs",
-              "ToolTip": "C:\\Users\\nirav\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Program.cs",
+              "ToolTip": "D:\\Desktop\\CarRental_Lab4_NS\\CarRentalPlatform\\Program.cs",
               "RelativeToolTip": "CarRentalPlatform\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:10:50.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:10:50.362Z"
             }
           ]
         }
